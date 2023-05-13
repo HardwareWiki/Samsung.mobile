@@ -1,10 +1,14 @@
 # Galaxy Tab E
-## postmarketOS
+# postmarketOS
 
-### Variants:
+## Variants:
 - https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_E_9.6_(SM-T560)_(samsung-gtelwifi)
 - https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_E_9.6_(SM-T561)_(samsung-gtel3g)
+
+### **SM-T560NU - uses: LK2nd bootloader**
 - https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_E_9.6_(SM-T560NU)_(samsung-gtelwifiue)
+  - flash: https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_410/412_(MSM8916)#Installation
+
 
 wiki: https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_E_9.6
 
